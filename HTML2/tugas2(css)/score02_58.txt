@@ -1,0 +1,20 @@
+20/10/2016
+-----------
++10 tugas siap
++11 untuk 11 lagu tambahan setelah 5 lagu pertama
+-3 untuk tag yang tidak di sebutkan
+----
+nilai 18
+
+
+27/10/2016
+-----------
++10 untuk tugas di kerjakan
++32 untuk setiap pemanggilan class yang sama dalam HTML 
+----
+nilai 40
+
+SCORE 20/10/2016 = 18
+SCORE 27/10/2016 = 40
+----------------------
+				   58

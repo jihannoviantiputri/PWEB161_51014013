@@ -1,0 +1,34 @@
+body
+{
+	   background: url(../pictures/bin.jpg);
+	   text-align: center;
+
+}
+ol
+{
+	text-align: left;
+	font-weight: bold;
+	font-family: comic sans ms;
+	color: black;
+
+
+}
+img
+{
+	width: 350px;
+}
+
+#judulutama
+{
+	color: #A91D41;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: verdana;	
+}
+.judul
+{
+	color: #A91D41;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: comic sans ms;
+}

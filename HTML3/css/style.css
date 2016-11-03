@@ -1,0 +1,70 @@
+body
+{
+	background-color: #D0708A;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+	
+}
+
+img
+{
+	width: 400px;
+
+}
+
+#judulutama
+{
+	text-align: center;
+	font-family: comic sans ms;
+	font-size: 50px;
+	font-weight: bold;
+	background-color: #002699;
+	border-style: solid;
+    border-width: 4px;
+    margin-top:71px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.daftarlagu 
+{
+	width: 10%
+	text-align: left;
+	font-family: comic sans ms;
+	font-size: 15px;
+	color: #002699;
+	position: relative;
+	float: left;
+	display: inline-block;
+	margin-top: 151px;
+	border-style: solid;
+    border-width: 5px;
+
+}	
+    
+.lagu
+{
+	text-align: center;
+	font-family: comic sans ms;
+	font-size: 30px;
+	font-weight: bold;
+	color: #800080;
+	border: solid;
+	position: relative;
+}
+
+.p
+{
+	position: relative;
+	overflow: scroll;
+	float: auto;
+	margin: auto;
+	display: inline-block;
+	border: 2px solid;
+	height: 200%;
+	width: 50%;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #002699;
+}

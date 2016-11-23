@@ -130,6 +130,9 @@ body {
 .abt
 {
   text-align: center;
+  font-family: juice itc;
+  font-size: 50px;
+  color: #fff;
 }
 
 @media (min-width: 992px) {
@@ -141,15 +144,85 @@ body {
 .registrasi
 {
 text-align: center;
-
 }
 
-label
+.ukm
 {
-  color: #fff;
+  text-align:center;
+  font-family: juice itc;
+  color: #ffffff ;
+  font-size: 40px;
+  text-shadow: 
+  0 0 5px white,
+  0 0 10px white,
+  0 0 125px #798682,
+  0 0 150px #798682;
 }
 
-.So
+.kg
 {
-  text-align: center;
+  text-align:center;
+  font-family: juice itc;
+  color: #fff ;
+  font-size: 24px;
+}
+
+.ss
+{
+  color: #adad85;
+  font-size: 40px;
+}
+.ssb
+{
+  font-family: juice itc;
+  color: #000000 ;
+  font-size: 30px;
+  text-shadow:
+0 0 5px white,
+0 0 10px white,
+0 0 15px white,
+0 0 20px white,
+0 0 25px white,
+0 0 30px white,
+0 0 35px white,
+0 0 40px white,
+0 0 50px #798682,
+0 0 75px #798682,
+0 0 100px #798682,
+0 0 125px #798682,
+0 0 150px #798682;
+}
+
+.sss
+{
+ color: #adad85;
+font-size: 40px; 
+}
+
+.sssb
+{
+  font-family: juice itc;
+  color: #000000 ;
+  font-size: 30px;
+  text-shadow:
+0 0 5px white,
+0 0 10px white,
+0 0 15px white,
+0 0 20px white,
+0 0 25px white,
+0 0 30px white,
+0 0 35px white,
+0 0 40px white,
+0 0 50px #798682,
+0 0 75px #798682,
+0 0 100px #798682,
+0 0 125px #798682,
+0 0 150px #798682;
+}
+
+
+
+.tabel
+{
+  color: #ffffff
 }

@@ -141,10 +141,15 @@ body {
 .registrasi
 {
 text-align: center;
-  font-family: sans-serif;
+
 }
 
 label
 {
   color: #fff;
+}
+
+.So
+{
+  text-align: center;
 }

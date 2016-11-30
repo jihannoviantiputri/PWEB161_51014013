@@ -1,0 +1,25 @@
+<br>
+<center><h1>Pemrograman Web</h1></center>
+<hr>
+<p>Pemrograman web diambil dari 2 suku kata yaitu pemrograman dan web. Pemrograman diartikan proses, cara, perbuatan program. Definisi Web : jaringan komputer yang terdiri dari kumpulan situs internet yang menawarkan teks dan grafik dan suara dan sumber daya animasi melalui protokol transfer hypertext. Orang banyak mengenal web dengan istilah WWW (world wide web), World Wide Web adalah layanan internet yang paling populer saat ini internet mulai dikenal dan digunakan secara luas setelah adanya layanan WWW. WWW adalah halaman-halaman website yang dapat saling terkoneksi satu dengan lainnya (hyperlink) yang membentuk samudra belantara informasi. WWW berjalan dengan protokol HyperText Transfer Protokol (HTTP). Halaman Web merupakan file teks murni (plain text) yang berisi sintaks-sintaks HTML yang dapat dibuka/ dilihat/ diterjemahkan dengan Internet Browser . Sintaks HTML mampu memuat konten text, gambar, audio, video dan animasi. Kini internet identik dengan web, karena kepopuleran web sebagai standar interface pada lanyanan-layanan yang ada di internet, dari awalnya sebagai penyedia informasi, ini digunakan juga untuk komunikasi dari email sampai dengan chatting, sampai dengan melakukan transaksi bisnis (commerce).</p>
+
+<ol><h3>HTTP</h3></ol>
+<p>HTTP (HyperTextTransfer Protocol) adalah protokol yang dipergunakan untuk mentransfer dokumen dalam World Wide Web(WWW). Protokol ini adalah protokol ringan, tidak berstatus dan generik yang dapat dipergunakan berbagai macam tipe dokumen. Pengembangan HTTP dikoordinasi oleh Konsorsium World Wide Web(W3C) dan grup bekerja Internet Engineering Task Force(IETF), bekerja dalam publikasi satu seri RFC, yang paling terkenal RFC 2616, yang menjelaskan HTTP/1,1, versti HTTP yang digunakan umum sekarang ini. HTTP adalah sebuah protokol meminta/menjawab antara clientdan server. Sebuh client HTTP seperti web browser, biasanya memulai permintaan dengan membuat hubungan TCP/IPke porttertentu di tuan rumah yang jauh (biasanya port 80). Sebuah server HTTP yang mendengarkan diport tersebut menunggu client mengirim kode permintaan (request), seperti "GET / HTTP/1.1" (yang akan meminta halaman yang sudah ditentukan), diikuti dengan pesan MIMEyang memiliki beberapa informasi kode kepala yang menjelaskan aspek dari permintaan tersebut, diikut dengan badan dari data tertentu. Beberapa kepala (header) juga bebas ditulis atau tidak, sementara lainnya (seperti tuan rumah) diperlukan oleh protokol HTTP/1,1. Begitu menerima kode permintaan (dan pesan, bila ada), server mengirim kembali kode jawaban, seperti "200 OK", dan sebuah pesan yang diminta, atau sebuah pesan error atau pesan lainnya.</p>
+
+<ol><h3>SEJARAH</h3></ol>
+<p>Protokol HTTP pertama kali dipergunakan dalam WWW pada tahun 1990. Pada saat tersebut yang dipakai adalah protokol HTTP versi 0.9. Versi 0.9 ini adalah protokol transfer dokumen secara mentah, maksudnya adalah data dokumen dikirim sesuai dengan isi dari dokumen tersebut tanpa memandang tipe dari dokumen. Kemudian pada tahun 1996 protokol HTTP diperbaiki menjadi HTTP versi 1.0. Perubahan ini untuk mengakomodasi tipe-tipe dokumen yang hendak dikirim beserta enkoding yang dipergunakan dalam pengiriman data dokumen. Sesuai dengan perkembangan infrastruktur internet maka pada tahun 1999 dikeluarkan HTTP versi 1.1 untuk mengakomodasi proxy, cache dan koneksi yang persisten.</p>
+
+<ol><h3>Perbedaan WEB 1.0, WEB 2.0 dan WEB 3.0</h3></ol>
+<p>Web adalah suatu ruang informasi di mana sumber-sumber daya yang berguna diidentifikasi oleh pengenal global yang disebut Uniform Resource Identifier (URI). Secara umum, Web 1.0 dikembangkan untuk pengaksesan informasi dan memiliki sifat yang sedikit interaktif.Secara garis besar, sifat Web 1.0 adalah Read.</p>
+<p>Lalu, tak lama kemudian muncullah Web 2.0 yang merupakan revolusi bisnis di industri komputer yang disebabkan oleh penggunaan internet sebagai platform, juga merupakan suatu percobaan untuk memahami aturan untuk mencapai keberhasilan platform baru.Sifat Web 2.0 adalah Read-Write. Era Web 2.0 tidak membutuhkan orang jenius yang hanya berkutat sendiri di ruang tertutup atau laboratorium untuk membuat teknologi baru yang dipatenkan agar membuat dirinya menjadi terkenal. Tapi era ini lebih membutuhkan orang untuk saling berbagi ilmu, pengalaman atau lainnya sehingga terbentuk komunitas online besar yang menghapuskan sifat-sifat individu.</p>
+<p>Sedangkan letak perbedaan Web 1.0 dan Web 2.0 yaitu :</p>
+<li>Perilaku pengguna Membaca Menulis</li>
+<li>Pelaku utama Perusahaan Pengguna/Komunitas</li>
+<li>Hubungan dengan server Client-server Peer to peer</li>
+<li>Bahasa pemrograman penampil konten HTML XML</li>
+<li>Pola hubungan penerbit-pengguna Searah Dua arah/ Interaktif</li>
+<li>Pengelolaan konten Taksonomi/direktori Folksonomi/penanda/tag</li>
+<li>Penayangan berbagai kanal informasi Portal RSS/Sindikasi</li>
+<li>Hubungan antar pengakses Tidak ada Berjejaring</li>
+<li>Sumber konten Penerbit/pemilik situs Pengguna</li>
+

@@ -1,0 +1,31 @@
+<br>
+<center><h1>Rasanya Jadi Mahasiswa Kupu-Kupu yang Habis Kuliah Langsung Pulang , 6 Ketakutanmu Diambang Kelulusan</h1></center>
+<hr>
+<img src="artikel.jpg">
+<p>Mahasiswa ‘kupu-kupu’ adalah mereka yang lebih memilih untuk fokus berkuliah saja, enggan terlibat kegiatan organisasi lantaran khawatir tidak bisa membagi waktu. Khawatir kuliahnya terbengkalai. Jadilah masa kuliahmu diisi dengan hanya fokus belajar dan mungkin sesekali kongkow bareng teman-teman. Karena dari awal kamu sudah berkomitmen dengan dirimu sendiri untuk fokus meraih IPK yang cemerlang dan lulus tepat waktu, kegiatan berorganisasi hanya tampak sebagai distraksi</p>
+<p>Bagi kamu yang sesuai dengan deskripsi di atas, pastinya akan dapat memahami kekhawatiran-kekhawatiran di bawah ini. Mungkin pada awalnya, kamu mengira asalkan belajar mati-matian pasti sukses akhirnya. Tapi begitu diambang kelulusan, kamu akan semakin menyadari bahwa berpikir seperti tampaknya merupakan strategi yang salah.</p>
+
+<ol><li><b><h3>Khawatir kuliahmu terbengkalai jika asyik kegiatan organisasi, karenanya selama kuliah kamu hanya berkutat dengan materi perkuliahan</h3></b></li>
+<p>Sedari awal memasuki bangku kuliah, kamu sudah berkomitmen untuk lulus tepat waktu dengan IPK yang cemerlang. Bukannya ambisius, tujuanmu semata untuk membahagiakan orangtua yang telah susah payah membiayaimu kuliah. Untuk bisa lulus cepat dengan IPK yang baik, tak ayal kamu sangat giat belajar dan selalu total dalam mengerjakan tugas kuliah. Masa kuliah, kamu gunakan hanya untuk belajar.
+
+Dalam benakmu, berorganisasi lewat UKM-UKM yang ada di kampusmu hanya terlihat berpotensi mengganggu studimu. Maka dari itu, tempat beredarmu hanya terbatas kampus, rumah atau kos, dan kampus lagi. Tak ayal jika teman-teman menjulukimu sebagai mahasiswa kuliah-pulang-kuliah-pulang atau ‘kupu-kupu’.</p>
+
+<li><b><h3>Mungkin selain kampus dan kasur, tempat peredaranmu hanya di perpustakaan. Sebagai tanda dedikasi akan janjimu pada orangtua untuk belajar dengan sungguh-sungguh</h3></b></li>
+<p>Bagi kamu yang selalu memprioritaskan studi, perpustakaan pasti jadi tempat menghabiskan waktu yang terbaik. Banyak buku yang bisa jadi sumber referensi, suasananya juga hening tanpa distraksi, bisa pakai internet dan AC gratis lagi. Yang pasti nongkrong di perpustakaan adalah pilihan terbaik ketika kamu tak ingin merasa bersalah pada orangtua yang sudah mahal-mahal membiayaimu untuk kuliah. Dibanding mengikuti kegiatan organisasi atau sekadar ‘kongkow’ tak jelas dengan teman, kamu lebih memilih melanjutkan dedikasmu untuk belajar sungguh-sungguh.</p>
+
+<li><b><h3>Tapi kuliahmu yang hanya beredar kos-kampus-kos itu nyatanya terasa cepat sekali. IPK-mu mungkin terjamin, tapi kamu mulai kelimpungan tatkala tak ada pengalaman organisasi yang bisa dicantumkan dalam CV</h3></b></li>
+<p>Tak terasa, tahu-tahu kamu sudah diambang kelulusan dan harus mulai berburu pekerjaan. CV dan dokumen lainnya pun kamu persiapkan. Pada fase ini seketika kamu kelimpungan. Mungkin di saat ini kamu baru benar-benar tersadar, fokusmu untuk serius belajar itu hanya pikiran sempit semata. Karena nyatanya di tiap format CV, porsi kolom pengalaman kerja maupun pengalaman organisasi jauh lebih lebar dari nilai IPK. Penyesalan tak bisa mengisi penuh kolom pengalaman, langsung membuat rasa percaya dirimu sebagai pencari kerja turun seketika.</p>
+
+<li><b><h3>Terlebih ketika nyatanya IPK tinggi tak lagi populer sebagai alat ‘jual diri’ di depan HRD perusahaan. Kamu hanya bisa gigit jari jika harus bersaing dengan mereka yang CV-nya terhias apik dengan berbagai pengalaman</h3></b></li>
+<p>Semasa kuliah mungkin kamu berpikir IPK adalah segalanya, penyesalan mungkin baru mulai muncul ketika dihadapkan dengan realitas pencari kerja. Tak banyak yang bisa menambahkan bilangan halamanmu sewaktu sampai ke kolom pengalaman organisasi atau kerja. Banyak kandidat lain yang ternyata punya kualifikasi yang lebih dari kamu, yakni mereka-mereka yang punya banyak hal yang bisa dibanggakan di hadapan HRD perusahaan saat wawancara, yang bukan hanya IPK semata. Mereka yang CV-nya dihiasi dengan pengalaman organisasi (dalam dan luar kampus), pertukaran pelajar, dan bahkan konferensi internasional. Sementara itu kamu yang hanya bisa membanggakan IPK saja, cuma bisa tertunduk jiper</p>
+
+<li><b><h3>Makanya, kamu tak bisa terlalu idealis dalam memilih pekerjaan. Karena buktinya, makin ke sini makin sedikit lowongan pekerjaan yang menginginkan fresh graduate yang nihil pengalaman</h3></b></li>
+<p>Banyak perusahaan yang melihat kualitas calon pegawainya tak hanya dari nilai semata. Tapi juga dari pengalaman organisasi yang dimiliki. Bukannya tanpa alasan, perusahaan menilai kalau mereka yang kuliah sembari organisasi biasanya terbiasa multitasking, terbiasa berkompromi, tahu caranya bernegosiasi, dan mampu menghadapi perbedaan sudut pandang saat berdiskusi. Dengan kata lain, mereka yang aktif berorganisasi dinilai lebih tangguh dalam berbagai aspek, ketimbang mereka yang semasa kuliahnya kupu-kupu.
+
+Nah, oleh sebab itu baiknya kamu jangan terlalu idealis milih kerjaan. Untukmu yang masih minim pengalaman, baik pengalaman organisasi atau kerja, cobalah untuk melamar perusahaan startup atau perusahaan yang menyediakan program perekrutan dengan sistem MT (management trainee) yang cenderung membidik calon pegawai yang bisa dibentuk. Maksudnya mereka yang lebih mudah untuk diarahkan sesuai keinginan perusahaan.</p>
+
+<li><b><h3>Terakhir, lebih baik terlambat daripada sama sekali tak mencoba. Mulai sekarang isilah waktu luangmu berburu pengalaman sambil mencari pekerjaan</h3></b></li>
+<p>Sembari menanti panggilan kerja, kamu bisa mengisi waktumu dengan berkegiatan amal. Nantinya, kegiatan amal ini bisa kamu masukkan dalam CV dan bisa bikin kualifikasimu naik tingkat. Buat kamu yang nggak terbiasa berorganisasi, kegiatan amal bisa kamu jajal demi memperkaya CV-mu. Tenang, kegiatan amal relatif lebih fleksibel kok waktunya. Kamu bisa menjajal Kelas Inspirasi yang biasanya cuma meminta waktumu beberapa hari saja. Atau bahkan jadi relawan NGO lingkungan yang biasanya hanya di weekend saja. Yuk, ikutan! Lebih baik telat daripada nggak sama sekali. Itung-itung isi waktu luang sembari menunggu panggilan wawancara.</p></ol>
+
+
+
